@@ -161,3 +161,9 @@ xkbset nullify lock
 # set nvim to default text editor
 export EDITOR=nvim
 export VISUAL=nvim
+
+# color prompt
+force_color_prompt=yes
+
+# brig autocompletion
+# source $GOPATH/src/github.com/sahib/brig/autocomplete/bash_autocomplete
